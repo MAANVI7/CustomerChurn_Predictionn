@@ -1,0 +1,60 @@
+﻿CustomerID,Name,Age,Gender,Location,Subscription_Length_Months,Monthly_Bill,Total_Usage_GB,Churn
+1,Customer_1,52,Male,Houston,19,66.29,74,1
+2,Customer_2,41,Female,Houston,9,89.49,191,1
+3,Customer_3,30,Male,New York,7,81.67,90,1
+4,Customer_4,28,Male,New York,3,53.36,381,0
+5,Customer_5,38,Male,Houston,22,69.15,304,1
+6,Customer_6,69,Male,Los Angeles,13,88.38,305,1
+7,Customer_7,45,Female,New York,22,59.43,446,0
+8,Customer_8,28,Female,Houston,9,60.01,307,0
+9,Customer_9,54,Male,Miami,14,87.8,163,1
+10,Customer_10,52,Male,Miami,6,88.35,365,1
+11,Customer_11,44,Male,New York,3,32.93,297,1
+12,Customer_12,50,Female,Miami,14,67.26,157,0
+13,Customer_13,31,Female,Miami,24,91.79,217,0
+14,Customer_14,58,Male,Los Angeles,18,73.21,237,1
+15,Customer_15,39,Male,Los Angeles,18,88.14,91,1
+16,Customer_16,70,Male,Houston,4,32.02,58,0
+17,Customer_17,66,Female,Los Angeles,11,63.78,367,1
+18,Customer_18,26,Male,Los Angeles,6,57.39,108,0
+19,Customer_19,42,Female,Los Angeles,13,33.23,89,1
+20,Customer_20,41,Female,Los Angeles,20,81.72,149,0
+21,Customer_21,47,Male,Chicago,24,50.87,475,0
+22,Customer_22,47,Male,Houston,8,32.98,143,1
+23,Customer_23,18,Female,Houston,9,85.08,175,0
+24,Customer_24,47,Male,Miami,12,79.57,449,1
+25,Customer_25,37,Female,Chicago,22,52.27,212,0
+26,Customer_26,30,Female,Houston,5,37.56,372,0
+27,Customer_27,29,Male,New York,20,67.05,244,1
+28,Customer_28,28,Male,New York,1,48.67,331,1
+29,Customer_29,49,Female,Los Angeles,21,54.56,180,1
+30,Customer_30,63,Male,New York,20,75.58,434,0
+31,Customer_31,20,Female,Houston,4,36.21,284,0
+32,Customer_32,56,Female,Los Angeles,13,41.27,495,1
+33,Customer_33,55,Male,Miami,22,41.58,404,1
+34,Customer_34,59,Male,Houston,17,94.29,310,0
+35,Customer_35,57,Male,Chicago,2,40.66,405,0
+36,Customer_36,63,Male,Houston,23,53.73,214,0
+37,Customer_37,48,Male,Los Angeles,4,91.73,226,1
+38,Customer_38,18,Male,Houston,14,79.05,223,1
+39,Customer_39,53,Male,New York,18,71.88,54,0
+40,Customer_40,56,Female,New York,8,97.33,175,0
+41,Customer_41,51,Male,Miami,12,50.55,149,1
+42,Customer_42,46,Female,Chicago,23,64.82,297,0
+43,Customer_43,64,Male,New York,8,49.47,79,0
+44,Customer_44,18,Female,Chicago,9,84.39,487,0
+45,Customer_45,55,Male,New York,19,42.86,321,1
+46,Customer_46,58,Female,New York,14,82.46,136,1
+47,Customer_47,65,Female,Miami,14,68.62,160,0
+48,Customer_48,43,Female,Miami,9,54.49,453,0
+49,Customer_49,60,Male,Houston,15,65.32,252,1
+50,Customer_50,55,Male,Chicago,17,80.52,337,1
+51,Customer_51,38,Female,New York,7,44.73,411,1
+52,Customer_52,25,Female,Chicago,14,38.28,447,1
+53,Customer_53,53,Male,Chicago,3,40.71,218,0
+54,Customer_54,29,Female,Houston,24,94.31,221,1
+55,Customer_55,57,Male,Chicago,20,42.36,243,1
+56,Customer_56,47,Male,Miami,8,35.43,166,0
+57,Customer_57,47,Female,Los Angeles,19,93.39,64,1
+58,Customer_58,70,Male,Los Angeles,3,75.58,67,1
+59,Customer_59,18,Female,New York,22,87.67,391,0
